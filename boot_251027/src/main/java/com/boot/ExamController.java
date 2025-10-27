@@ -12,7 +12,7 @@ public class ExamController {
 	@RequestMapping("/")
 //	public void home() {
 	public String home() {
-		log.info("hello boot 999 111");
+		log.info("hello boot 123");
 
 		return "hello";
 	}
